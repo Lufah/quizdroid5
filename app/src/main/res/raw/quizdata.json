@@ -1,0 +1,62 @@
+[
+    {   "title":"Math",
+        "shortdesc":"Number Questions",
+        "desc":"This category is about numbers!",
+        "questions":[
+            {
+                "text":"What is 1 + 10?",
+                "answer":"3",
+                "answers":[
+                    "One",
+                    "Two",
+                    "Eleven",
+                    "Twelve"
+                ]
+            },
+            {
+                "text":"Why was six afraid of seven?",
+                "answer":"1",
+                "answers":[
+                    "Because seven ate nine",
+                    "Because seven",
+                    "Numbers are incapable of recreating the concept of fear",
+                    "Because six, seven ate"
+                ]
+            }
+        ]
+    },
+
+    {   "title":"Physics",
+        "shortdesc":"Physics Questions",
+        "desc":"This category is about physics!",
+        "questions":[
+            {
+                "text":"How is acceleration calculated?",
+                "answer":"1",
+                "answers":[
+                    "Change in velocity over change in time",
+                    "Running fast",
+                    "Not possible",
+                    "By multiplying the density by the force"
+                ]
+            }
+        ]
+    },
+
+    {   "title":"Marvel Super Heroes",
+        "shortdesc":"Marvel Questions",
+        "desc":"This category is about Marvel Super Heroes!",
+        "questions":[
+            {
+                "text":"What is the best Marvel game?",
+                "answer":"2",
+                "answers":[
+                    "Ultimate Alliance",
+                    "Marvel vs. Capcom 2",
+                    "The movie",
+                    "Thor"
+                ]
+            }
+        ]
+    }
+]
